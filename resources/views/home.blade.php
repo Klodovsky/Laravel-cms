@@ -14,8 +14,8 @@
             <a href="#" class="btn btn-primary">Read More &rarr;</a>
           </div>
           <div class="card-footer text-muted">
-            Posted on January 1, 2017 by
-            <a href="#">Start Bootstrap</a>
+            Posted on January 1, 2021 by
+            <a href="#">Home</a>
           </div>
         </div>
 
@@ -29,7 +29,7 @@
           </div>
           <div class="card-footer text-muted">
             Posted on January 1, 2017 by
-            <a href="#">Start Bootstrap</a>
+            <a href="#">Home</a>
           </div>
         </div>
 
@@ -42,8 +42,8 @@
             <a href="#" class="btn btn-primary">Read More &rarr;</a>
           </div>
           <div class="card-footer text-muted">
-            Posted on January 1, 2017 by
-            <a href="#">Start Bootstrap</a>
+            Posted on January 1, 2021 by
+            <a href="#">Home</a>
           </div>
         </div>
 
