@@ -96,7 +96,16 @@ class PostController extends Controller
         return redirect()->route('post.index');
 
     }
+    public function edit(Post $post){
 
+        //$this->authorize('view', $post);
+
+//        if(auth()->user()->can('view', $post)){
+//
+//
+//        }
+        return view('admin.posts.edit', ['post'=> $post]);
+    }
 }
 
 

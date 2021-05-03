@@ -28,7 +28,7 @@ Route::middleware('auth')->group(function (){
     Route::get('/admin/posts/index', [App\Http\Controllers\PostController::class, 'index'])->name('posts.index');
 
     Route::delete('/admin/posts/{post}/delete', [App\Http\Controllers\PostController::class, 'delete'])->name('posts.delete');
-    Route::delete('/admin/posts/{post}/edit', [App\Http\Controllers\PostController::class, 'edit'])->name('posts.edit');
+    Route::get('/admin/posts/edit', [App\Http\Controllers\PostController::class, 'edit'])->name('posts.edit');
 
 
 });
